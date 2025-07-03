@@ -1,1 +1,24 @@
 
+https://aws.amazon.com/de/what-is/logistic-regression/
+
+https://medium.com/data-science/logistic-regression-and-decision-boundary-eab6e00c1e8
+
+
+https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a/
+
+
+https://medium.com/intro-to-artificial-intelligence/logistic-regression-using-gradient-descent-bf8cbe749ceb
+
+
+https://mlu-explain.github.io/logistic-regression/
+
+
+
+https://medium.com/@nandinisekar27/logistic-regression-overview-and-its-error-metrics-8b54512ca39f
+
+https://youtu.be/DPSXVJF5jIs?si=b4crOHe27lm9HqeQ
+
+
+https://youtu.be/LI4tyhFs09s?si=h37DJbofP9OMXtRJ
+
+https://youtu.be/L2YiNu22saU?si=bdx6MSWM9T9z9_wn
